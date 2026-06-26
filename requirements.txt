@@ -1,0 +1,5 @@
+sentence-transformers>=3.4.1
+huggingface_hub>=0.30.0
+numpy
+gradio
+kaggle
