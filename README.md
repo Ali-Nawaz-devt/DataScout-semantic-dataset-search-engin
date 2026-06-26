@@ -159,7 +159,7 @@ DataScout/
 
 
 [![HuggingFace](https://img.shields.io/badge/🤗-alinawazmahar-yellow)](https://huggingface.co/alinawazmahar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alinawazmahar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-nawaz-786w/)
 
 ---
 
