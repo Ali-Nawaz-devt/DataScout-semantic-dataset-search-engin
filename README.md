@@ -156,7 +156,7 @@ DataScout/
 ## Author
 
 **Ali Nawaz Mahar**
-BS Computer Science — Shaikh Ayaz University, Shikarpur
+
 
 [![HuggingFace](https://img.shields.io/badge/🤗-alinawazmahar-yellow)](https://huggingface.co/alinawazmahar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alinawazmahar)
